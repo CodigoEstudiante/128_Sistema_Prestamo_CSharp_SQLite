@@ -1,0 +1,153 @@
+D:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\bin\Debug\FontAwesome.Sharp.dll
+D:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.csprojAssemblyReference.cache
+D:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.Form1.resources
+D:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.Properties.Resources.resources
+D:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.csproj.GenerateResource.cache
+D:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.csproj.CoreCompileInputs.cache
+D:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.csproj.CopyComplete
+D:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.Formularios.frmRegistrarPrestamo.resources
+D:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.Formularios.frmRegistrarCobro.resources
+D:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.Formularios.frmHistorialPrestamo.resources
+D:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.Formularios.frmClientes.resources
+D:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.Formularios.frmConfiguracion.resources
+D:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.Formularios.frmMisDatos.resources
+D:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.Formularios.frmTipoMoneda.resources
+D:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.Formularios.frmResumenGeneral.resources
+D:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\bin\Debug\DBPRESTAMO.db
+D:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\bin\Debug\EntityFramework.dll
+D:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\bin\Debug\EntityFramework.SqlServer.dll
+D:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\bin\Debug\System.Data.SQLite.dll
+D:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\bin\Debug\System.Data.SQLite.EF6.dll
+D:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\bin\Debug\System.Data.SQLite.Linq.dll
+D:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\bin\Debug\EntityFramework.xml
+D:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\bin\Debug\EntityFramework.SqlServer.xml
+D:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\bin\Debug\System.Data.SQLite.xml
+D:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.Modales.mdClausulas.resources
+D:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.Modales.mdClientes.resources
+D:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\bin\Debug\BouncyCastle.Crypto.dll
+D:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\bin\Debug\itextsharp.dll
+D:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\bin\Debug\itextsharp.xmlworker.dll
+D:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\bin\Debug\itextsharp.xml
+D:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.Formularios.mdModificarPrestamo.resources
+D:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.Modales.mdCancelarPrestamo.resources
+D:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.Modales.mdCliente.resources
+D:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.Modales.mdTipoMoneda.resources
+D:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.Modales.mdcambiarclave.resources
+D:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\bin\Debug\ClosedXML.dll
+D:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\bin\Debug\DocumentFormat.OpenXml.dll
+D:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\bin\Debug\ExcelNumberFormat.dll
+D:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\bin\Debug\System.IO.Packaging.dll
+D:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\bin\Debug\ClosedXML.pdb
+D:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\bin\Debug\ClosedXML.xml
+D:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\bin\Debug\DocumentFormat.OpenXml.xml
+D:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\bin\Debug\ExcelNumberFormat.xml
+D:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.Modales.mdAcercade.resources
+D:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.Formularios.Login.resources
+D:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\bin\Debug\CE Prestamo.exe.config
+D:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\bin\Debug\CE Prestamo.exe
+D:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\bin\Debug\CE Prestamo.pdb
+D:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\obj\Debug\CE Prestamo.exe
+D:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\obj\Debug\CE Prestamo.pdb
+E:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\bin\Debug\DBPRESTAMO.db
+E:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\bin\Debug\CE Prestamo.exe.config
+E:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\bin\Debug\CE Prestamo.exe
+E:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\bin\Debug\CE Prestamo.pdb
+E:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\bin\Debug\BouncyCastle.Crypto.dll
+E:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\bin\Debug\ClosedXML.dll
+E:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\bin\Debug\DocumentFormat.OpenXml.dll
+E:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\bin\Debug\EntityFramework.dll
+E:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\bin\Debug\EntityFramework.SqlServer.dll
+E:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\bin\Debug\ExcelNumberFormat.dll
+E:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\bin\Debug\FontAwesome.Sharp.dll
+E:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\bin\Debug\itextsharp.dll
+E:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\bin\Debug\itextsharp.xmlworker.dll
+E:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\bin\Debug\System.Data.SQLite.dll
+E:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\bin\Debug\System.Data.SQLite.EF6.dll
+E:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\bin\Debug\System.Data.SQLite.Linq.dll
+E:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\bin\Debug\System.IO.FileSystem.Primitives.dll
+E:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\bin\Debug\System.IO.Packaging.dll
+E:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\bin\Debug\ClosedXML.pdb
+E:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\bin\Debug\ClosedXML.xml
+E:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\bin\Debug\DocumentFormat.OpenXml.xml
+E:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\bin\Debug\EntityFramework.xml
+E:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\bin\Debug\EntityFramework.SqlServer.xml
+E:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\bin\Debug\ExcelNumberFormat.xml
+E:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\bin\Debug\itextsharp.xml
+E:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\bin\Debug\System.Data.SQLite.xml
+E:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.csprojAssemblyReference.cache
+E:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.Form1.resources
+E:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.Formularios.frmClientes.resources
+E:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.Formularios.frmConfiguracion.resources
+E:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.Formularios.frmHistorialPrestamo.resources
+E:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.Formularios.frmMisDatos.resources
+E:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.Formularios.Login.resources
+E:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.Modales.mdAcercade.resources
+E:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.Modales.mdcambiarclave.resources
+E:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.Modales.mdCancelarPrestamo.resources
+E:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.Modales.mdCliente.resources
+E:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.Formularios.mdModificarPrestamo.resources
+E:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.Formularios.frmRegistrarCobro.resources
+E:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.Formularios.frmRegistrarPrestamo.resources
+E:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.Formularios.frmResumenGeneral.resources
+E:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.Formularios.frmTipoMoneda.resources
+E:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.Modales.mdClausulas.resources
+E:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.Modales.mdClientes.resources
+E:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.Modales.mdTipoMoneda.resources
+E:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.Properties.Resources.resources
+E:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.csproj.GenerateResource.cache
+E:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.csproj.CoreCompileInputs.cache
+E:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.csproj.CopyComplete
+E:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\obj\Debug\CE Prestamo.exe
+E:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\obj\Debug\CE Prestamo.pdb
+E:\WorkSpaceAD\YOUTUBE\128 Sistema Prestamo en C# y SQLite\SistemaPrestamo\ProyectoPrestamo\bin\Debug\DBPRESTAMO.db
+E:\WorkSpaceAD\YOUTUBE\128 Sistema Prestamo en C# y SQLite\SistemaPrestamo\ProyectoPrestamo\bin\Debug\CE Prestamo.exe.config
+E:\WorkSpaceAD\YOUTUBE\128 Sistema Prestamo en C# y SQLite\SistemaPrestamo\ProyectoPrestamo\bin\Debug\CE Prestamo.exe
+E:\WorkSpaceAD\YOUTUBE\128 Sistema Prestamo en C# y SQLite\SistemaPrestamo\ProyectoPrestamo\bin\Debug\CE Prestamo.pdb
+E:\WorkSpaceAD\YOUTUBE\128 Sistema Prestamo en C# y SQLite\SistemaPrestamo\ProyectoPrestamo\bin\Debug\BouncyCastle.Crypto.dll
+E:\WorkSpaceAD\YOUTUBE\128 Sistema Prestamo en C# y SQLite\SistemaPrestamo\ProyectoPrestamo\bin\Debug\ClosedXML.dll
+E:\WorkSpaceAD\YOUTUBE\128 Sistema Prestamo en C# y SQLite\SistemaPrestamo\ProyectoPrestamo\bin\Debug\DocumentFormat.OpenXml.dll
+E:\WorkSpaceAD\YOUTUBE\128 Sistema Prestamo en C# y SQLite\SistemaPrestamo\ProyectoPrestamo\bin\Debug\EntityFramework.dll
+E:\WorkSpaceAD\YOUTUBE\128 Sistema Prestamo en C# y SQLite\SistemaPrestamo\ProyectoPrestamo\bin\Debug\EntityFramework.SqlServer.dll
+E:\WorkSpaceAD\YOUTUBE\128 Sistema Prestamo en C# y SQLite\SistemaPrestamo\ProyectoPrestamo\bin\Debug\ExcelNumberFormat.dll
+E:\WorkSpaceAD\YOUTUBE\128 Sistema Prestamo en C# y SQLite\SistemaPrestamo\ProyectoPrestamo\bin\Debug\FontAwesome.Sharp.dll
+E:\WorkSpaceAD\YOUTUBE\128 Sistema Prestamo en C# y SQLite\SistemaPrestamo\ProyectoPrestamo\bin\Debug\itextsharp.dll
+E:\WorkSpaceAD\YOUTUBE\128 Sistema Prestamo en C# y SQLite\SistemaPrestamo\ProyectoPrestamo\bin\Debug\itextsharp.xmlworker.dll
+E:\WorkSpaceAD\YOUTUBE\128 Sistema Prestamo en C# y SQLite\SistemaPrestamo\ProyectoPrestamo\bin\Debug\System.Data.SQLite.dll
+E:\WorkSpaceAD\YOUTUBE\128 Sistema Prestamo en C# y SQLite\SistemaPrestamo\ProyectoPrestamo\bin\Debug\System.Data.SQLite.EF6.dll
+E:\WorkSpaceAD\YOUTUBE\128 Sistema Prestamo en C# y SQLite\SistemaPrestamo\ProyectoPrestamo\bin\Debug\System.Data.SQLite.Linq.dll
+E:\WorkSpaceAD\YOUTUBE\128 Sistema Prestamo en C# y SQLite\SistemaPrestamo\ProyectoPrestamo\bin\Debug\System.IO.FileSystem.Primitives.dll
+E:\WorkSpaceAD\YOUTUBE\128 Sistema Prestamo en C# y SQLite\SistemaPrestamo\ProyectoPrestamo\bin\Debug\System.IO.Packaging.dll
+E:\WorkSpaceAD\YOUTUBE\128 Sistema Prestamo en C# y SQLite\SistemaPrestamo\ProyectoPrestamo\bin\Debug\ClosedXML.pdb
+E:\WorkSpaceAD\YOUTUBE\128 Sistema Prestamo en C# y SQLite\SistemaPrestamo\ProyectoPrestamo\bin\Debug\ClosedXML.xml
+E:\WorkSpaceAD\YOUTUBE\128 Sistema Prestamo en C# y SQLite\SistemaPrestamo\ProyectoPrestamo\bin\Debug\DocumentFormat.OpenXml.xml
+E:\WorkSpaceAD\YOUTUBE\128 Sistema Prestamo en C# y SQLite\SistemaPrestamo\ProyectoPrestamo\bin\Debug\EntityFramework.xml
+E:\WorkSpaceAD\YOUTUBE\128 Sistema Prestamo en C# y SQLite\SistemaPrestamo\ProyectoPrestamo\bin\Debug\EntityFramework.SqlServer.xml
+E:\WorkSpaceAD\YOUTUBE\128 Sistema Prestamo en C# y SQLite\SistemaPrestamo\ProyectoPrestamo\bin\Debug\ExcelNumberFormat.xml
+E:\WorkSpaceAD\YOUTUBE\128 Sistema Prestamo en C# y SQLite\SistemaPrestamo\ProyectoPrestamo\bin\Debug\itextsharp.xml
+E:\WorkSpaceAD\YOUTUBE\128 Sistema Prestamo en C# y SQLite\SistemaPrestamo\ProyectoPrestamo\bin\Debug\System.Data.SQLite.xml
+E:\WorkSpaceAD\YOUTUBE\128 Sistema Prestamo en C# y SQLite\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.csproj.AssemblyReference.cache
+E:\WorkSpaceAD\YOUTUBE\128 Sistema Prestamo en C# y SQLite\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.Form1.resources
+E:\WorkSpaceAD\YOUTUBE\128 Sistema Prestamo en C# y SQLite\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.Formularios.frmClientes.resources
+E:\WorkSpaceAD\YOUTUBE\128 Sistema Prestamo en C# y SQLite\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.Formularios.frmConfiguracion.resources
+E:\WorkSpaceAD\YOUTUBE\128 Sistema Prestamo en C# y SQLite\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.Formularios.frmHistorialPrestamo.resources
+E:\WorkSpaceAD\YOUTUBE\128 Sistema Prestamo en C# y SQLite\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.Formularios.frmMisDatos.resources
+E:\WorkSpaceAD\YOUTUBE\128 Sistema Prestamo en C# y SQLite\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.Formularios.Login.resources
+E:\WorkSpaceAD\YOUTUBE\128 Sistema Prestamo en C# y SQLite\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.Modales.mdAcercade.resources
+E:\WorkSpaceAD\YOUTUBE\128 Sistema Prestamo en C# y SQLite\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.Modales.mdcambiarclave.resources
+E:\WorkSpaceAD\YOUTUBE\128 Sistema Prestamo en C# y SQLite\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.Modales.mdCancelarPrestamo.resources
+E:\WorkSpaceAD\YOUTUBE\128 Sistema Prestamo en C# y SQLite\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.Modales.mdCliente.resources
+E:\WorkSpaceAD\YOUTUBE\128 Sistema Prestamo en C# y SQLite\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.Formularios.mdModificarPrestamo.resources
+E:\WorkSpaceAD\YOUTUBE\128 Sistema Prestamo en C# y SQLite\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.Formularios.frmRegistrarCobro.resources
+E:\WorkSpaceAD\YOUTUBE\128 Sistema Prestamo en C# y SQLite\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.Formularios.frmRegistrarPrestamo.resources
+E:\WorkSpaceAD\YOUTUBE\128 Sistema Prestamo en C# y SQLite\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.Formularios.frmResumenGeneral.resources
+E:\WorkSpaceAD\YOUTUBE\128 Sistema Prestamo en C# y SQLite\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.Formularios.frmTipoMoneda.resources
+E:\WorkSpaceAD\YOUTUBE\128 Sistema Prestamo en C# y SQLite\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.Modales.mdClausulas.resources
+E:\WorkSpaceAD\YOUTUBE\128 Sistema Prestamo en C# y SQLite\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.Modales.mdClientes.resources
+E:\WorkSpaceAD\YOUTUBE\128 Sistema Prestamo en C# y SQLite\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.Modales.mdTipoMoneda.resources
+E:\WorkSpaceAD\YOUTUBE\128 Sistema Prestamo en C# y SQLite\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.Properties.Resources.resources
+E:\WorkSpaceAD\YOUTUBE\128 Sistema Prestamo en C# y SQLite\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.csproj.GenerateResource.cache
+E:\WorkSpaceAD\YOUTUBE\128 Sistema Prestamo en C# y SQLite\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.csproj.CoreCompileInputs.cache
+E:\WorkSpaceAD\YOUTUBE\128 Sistema Prestamo en C# y SQLite\SistemaPrestamo\ProyectoPrestamo\obj\Debug\Proyecto.BDAFBB68.Up2Date
+E:\WorkSpaceAD\YOUTUBE\128 Sistema Prestamo en C# y SQLite\SistemaPrestamo\ProyectoPrestamo\obj\Debug\CE Prestamo.exe
+E:\WorkSpaceAD\YOUTUBE\128 Sistema Prestamo en C# y SQLite\SistemaPrestamo\ProyectoPrestamo\obj\Debug\CE Prestamo.pdb

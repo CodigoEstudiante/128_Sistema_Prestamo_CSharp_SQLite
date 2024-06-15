@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Web Page Design</title>
+   <style>
+        table.border {
+            border-collapse: collapse;
+        }
+
+        table.border th {
+            text-align:center;
+            padding: 5px;
+            border: 1px solid black;
+        }
+
+        table.border td {
+            text-align:center;
+            padding: 5px;
+            border: 1px solid black;
+        }
+    </style>
+</head>
+<body>
+    <table style="border-spacing: 0px;width:100%" cellpadding="3">
+        <tr>
+            <td>
+                <h3 style="margin-bottom:5px !important;margin-top:5px !important">INFORMACIÓN GENERAL DEL PRESTAMO</h3>
+            </td>
+            <td style="text-align:right;font-weight:bold" valign="top">
+                Nro. Operación:
+            </td>
+            <td valign="top">
+                @nrooperacion
+            </td>
+        </tr>
+    </table>
+    <p style="font-size:17px;font-weight:bold;margin:3px">Información del acreedor</p>
+    <table style="border-spacing: 0px;font-size:12px;margin-top:6px !important" cellpadding="3">
+        <tr>
+            <td>Razon social:</td>
+            <td>@nombrerazonsocial</td>
+            <td style="width:80px"></td>
+            <td>Correo:</td>
+            <td>@correo</td>
+        </tr>
+        <tr>
+            <td>RUC:</td>
+            <td>@ruc</td>
+            <td style="width:80px"></td>
+            <td>Telefono/Celular:</td>
+            <td>@telefono</td>
+        </tr>
+        <tr>
+            <td>Representante:</td>
+            <td>@representante</td>
+        </tr>
+    </table>
+    <hr />
+    <p style="font-size:17px;font-weight:bold;margin:3px">Información del Cliente</p>
+    <table style="border-spacing: 0px;font-size:12px;margin-top:6px !important" cellpadding="3">
+        <tr>
+            <td>Nombre Completo:</td>
+            <td>@nombrecompleto</td>
+            <td style="width:30px"></td>
+            <td>Tipo Doc.:</td>
+            <td>@tipodoc</td>
+            <td style="width:30px"></td>
+            <td>Nro. Doc.:</td>
+            <td>@nrodoc</td>
+        </tr>
+        <tr>
+            <td>Direccion:</td>
+            <td>@direccion</td>
+            <td style="width:30px"></td>
+            <td>Ciudad:</td>
+            <td>@ciudad</td>
+            <td style="width:30px"></td>
+            <td>Correo:</td>
+            <td>@correoc</td>
+        </tr>
+        <tr>
+            <td>Telefono/Celular:</td>
+            <td>@telefonoc</td>
+        </tr>
+    </table>
+    <hr />
+    <p style="font-size:17px;font-weight:bold;margin:3px">Información del Préstamo</p>
+    <table style="border-spacing: 0px;font-size:12px;margin-top:6px !important" cellpadding="3">
+        <tr>
+            <td>Fecha Inicio:</td>
+            <td>@fechainicio</td>
+        </tr>
+        <tr>
+            <td>Forma de Pago:</td>
+            <td>@formapago</td>
+        </tr>
+        <tr>
+            <td>Tipo de Moneda:</td>
+            <td>@tipomoneda</td>
+        </tr>
+        <tr>
+            <td>Monto Prestamo:</td>
+            <td>@montoprestamo</td>
+        </tr>
+        <tr>
+            <td>% Interes:</td>
+            <td>@interes</td>
+        </tr>
+        <tr>
+            <td>Nro. Cuotas:</td>
+            <td>@nrocuotas</td>
+        </tr>
+        <tr>
+            <td>Monto prom. x Cuota:</td>
+            <td>@montoxcuota</td>
+        </tr>
+        <tr>
+            <td>Total Intereses:</td>
+            <td>@totalintereses</td>
+        </tr>
+        <tr>
+            <td>Monto Total:</td>
+            <td>@montototal</td>
+        </tr>
+    </table>
+    <p style="font-size:17px;font-weight:bold;margin:5px">Resumen de Cuotas</p>
+    <table class="border" style="border-spacing: 0px;font-size:12px;width:400px;margin-top:10px !important;margin-left:5px !important">
+        <thead>
+            <tr>
+                <th>Nro. Cuota</th>
+                <th>Fecha de Pago</th>
+                <th>Monto de Cuota</th>
+            </tr>
+        </thead>
+        <tbody>
+            @filas
+        </tbody>
+    </table>
+    <hr />
+    <p style="font-size:17px;font-weight:bold;margin:5px">Clausulas</p>
+    <p style="font-size:12px;margin:5px">@clausulas</p>
+</body>
+</html>
